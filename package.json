@@ -1,0 +1,28 @@
+{
+  "name": "sometimes-error",
+  "version": "1.0.0",
+  "description": "Sometimes give a 502, 503, or 504 error to test HA setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtwebman/sometimes-error.git"
+  },
+  "keywords": [
+    "test",
+    "ha",
+    "error",
+    "sometimes",
+    "502",
+    "503",
+    "504"
+  ],
+  "author": "JT Turner <jtwebman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtwebman/sometimes-error/issues"
+  },
+  "homepage": "https://github.com/jtwebman/sometimes-error#readme"
+}
